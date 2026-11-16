@@ -1,28 +1,27 @@
-﻿# Carrusel — Top 20 animes preferidos
+# Carrusel — top 20 animes
 
-Carrusel/mapa visual del top 20 de animes japoneses, con controles y tema.
+Carrusel del top 20 de mis animes preferidos, con play/pausa y tema.
 
 ## Qué hace
 
-- Intro + fichas de anime (portada, descripción, características)
-- Controles: play/pausa, primero, anterior, siguiente, último
-- Toggle de tema y reloj en pantalla
-- Datos en un array `misAnimes`
+- Intro + fichas (portada, descripción, detalles)
+- Controles: primero, anterior, siguiente, último, play/pausa
+- Toggle de tema y reloj
+- Datos en el array `misAnimes`
 
 ## Cómo probarlo
 
-Abre `index.html` o la demo.
+Abre `index.html`.
 
 Demo: https://moussijoelle.github.io/carrusell-pratica/
 
 ## Cómo lo construí
 
-- HTML + JavaScript (`js/`)
-- Imágenes en `img/`
+JS en `js/` + imágenes en `img/`.
 
 ## Cómo verificarlo
 
-Sin tests. Navego el carrusel, pauso/reanudo y cambio el tema.
+Avanzo varias fichas, pauso, cambio el tema y vuelvo al primero.
 
 ---
 
